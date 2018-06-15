@@ -9,5 +9,8 @@ p{
     color: pink;
     font-family: 'Courier New', Courier, monospace;
     background-color: black;
+    margin : 2em;
+    padding : 2em;
+    border-radius: 1em;
 }
 
