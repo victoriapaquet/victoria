@@ -1,14 +1,14 @@
 h1{
 
-    background-color: red;
+    background-color: pink;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 3em;
 }
 
 p{
-    color: pink;
+    color:white;
     font-family: 'Courier New', Courier, monospace;
-    background-color: black;
+    background-color:blue;
     margin : 2em;
     padding : 2em;
     border-radius: 1em;
