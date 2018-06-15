@@ -1,1 +1,1 @@
-alert("ouaip");
+alert("Mais que c'est beau !");
